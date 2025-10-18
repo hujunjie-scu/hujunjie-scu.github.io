@@ -17,6 +17,12 @@ You can find information about my publications, teaching, and more in the top na
 ------
 # 🔥 News
 
+- *2025.09*: &nbsp;🎉🎉 Congratulations to **Kailin He**, who represented our group and won **2nd place** in the [**TrackRAD Grand Challenge**](https://trackrad2025.grand-challenge.org/evaluation/final-testing/leaderboard/). The challenge focuses on advancing **real-time tumor tracking for MRI-guided radiotherapy**.  
+
+<p align="center">
+  <img src="images/MICCAI 2025 TrackRAD.jpg" alt="2nd place in TrackRAD Grand Challenge" style="width:60%; max-width:600px;">
+</p>
+
 - *2025.06*: &nbsp;🎉🎉 Our paper “A Dual-resolution Cooperative Evolutionary Algorithm for Multi-objective IMRT Inverse Planning” received the Best Student Paper Award at the 2025 IEEE Congress on Evolutionary Computation.
 <p align="center">
   <img src="images/IEEE-CEC-Best-Student-Paper.jpg" alt="CEC 2025 Best Student Paper Award" style="width:60%; max-width:600px;">
